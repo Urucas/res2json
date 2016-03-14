@@ -38,4 +38,6 @@ console.log(resources)
      'November',
      'December' ] }
 */
+// or directly using the path to the strings.xml
+resources = parse.parseFile("./demo-project/app/src/main/res/values/strings.xml")
 ```
