@@ -1,6 +1,6 @@
 {
   "name": "res2json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert android string.xml resource to json",
   "main": "./dist/index.js",
   "scripts": {
